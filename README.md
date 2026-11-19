@@ -2,6 +2,10 @@
 
 Sistema web para diseñar y personalizar prendas de vestir .
 
+## CUENTAS DE PRUEBA
+Administrador: correo@gmail.com / correo123
+Usuario: colli@gmail.com / colli123
+
 ## Estructura del proyecto
 
 - `config/`: conexión con MySQL.
